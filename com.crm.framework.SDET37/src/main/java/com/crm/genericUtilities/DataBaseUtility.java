@@ -1,7 +1,7 @@
 package com.crm.genericUtilities;
 /**
  * 
- * @author SanjayBabu
+ * @author nithin
  *
  */
 public class DataBaseUtility {
